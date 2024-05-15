@@ -11,7 +11,7 @@
     <artifactId>open-jira-api</artifactId>
     <packaging>jar</packaging>
     <name>open-jira-api</name>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <description>Open API client code for Jira cloud</description>
 
     <properties>
